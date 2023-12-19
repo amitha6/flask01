@@ -1,6 +1,6 @@
 # flask01
 
-Implementation of two APIS's /report and /ingest. /ingest API will consume a metric-data point with three metric points and /report endpoint will return the JSON object of average of collected datapoints over a day and month. Both the API's are implemented in Flask with MongoDB databse.   
+Implementation of two APIS endpoints /report and /ingest. /ingest API will consume a metric-data point with three metric points and /report endpoint will return the JSON object of average of collected datapoints over a day and month. Both the API's are implemented in Flask with MongoDB databse.   
 
 How to run the code:   
 
