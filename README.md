@@ -4,7 +4,7 @@ Implementation of two APIS endpoints /report and /ingest. /ingest API will consu
 
 How to run the code:   
 
-Make sure you have python installed.  
+Make sure you have python installed. Create a virtual environment and activate it.  
 
 Install both flask and pymongo  
 
